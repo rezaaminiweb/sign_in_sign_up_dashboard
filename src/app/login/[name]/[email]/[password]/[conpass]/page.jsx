@@ -118,7 +118,7 @@ export default function Reza() {
                                         <label htmlFor="user" className="">
                                             <BsPersonFill className="text-2xl  me-3"> </BsPersonFill>
                                         </label>
-                                        <input type="text" id="user" className="h-[100%] capitalize  w-full p-3 outline-none  placeholder:capitalize  " placeholder="your name" {...register('name')}
+                                        <input type="text" id="user" className="h-[100%]   w-full p-3 outline-none  placeholder:capitalize  " placeholder="your name" {...register('name')}
                                         />
                                         <br />
                                     </div>
