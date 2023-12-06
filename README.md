@@ -1,7 +1,7 @@
-![1](https://github.com/rezaaminiweb/sign_in_sign_up_dashboard/assets/140278906/317772d4-48a0-4c71-808d-082967ee4fe4)
-![2](https://github.com/rezaaminiweb/sign_in_sign_up_dashboard/assets/140278906/f16e7ea8-b76f-4f4b-8f3c-752f5cc86b43)
-![3](https://github.com/rezaaminiweb/sign_in_sign_up_dashboard/assets/140278906/9c0f8289-9e29-475f-9f6c-b8848b8a21a7)
-![4](https://github.com/rezaaminiweb/sign_in_sign_up_dashboard/assets/140278906/5b6eb283-9d77-4233-a0d0-aaad1086aac8)
+![1](https://github.com/rezaaminiweb/sign_in_sign_up_dashboard/assets/140278906/139664b3-52bc-4a3d-9343-564e18a83460)
+![2](https://github.com/rezaaminiweb/sign_in_sign_up_dashboard/assets/140278906/9cd163a0-cd5a-4a31-ace4-722724ac1aa3)
+![3](https://github.com/rezaaminiweb/sign_in_sign_up_dashboard/assets/140278906/1c38c548-6e50-41c0-b7a9-d73f2a15c666)
+![4](https://github.com/rezaaminiweb/sign_in_sign_up_dashboard/assets/140278906/397c8974-8ff5-449f-a92b-b2f66d01ad33)
 
 
 
