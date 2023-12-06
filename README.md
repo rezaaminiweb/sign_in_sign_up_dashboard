@@ -1,3 +1,19 @@
+![1](https://github.com/rezaaminiweb/sign_in_sign_up_dashboard/assets/140278906/317772d4-48a0-4c71-808d-082967ee4fe4)
+![2](https://github.com/rezaaminiweb/sign_in_sign_up_dashboard/assets/140278906/f16e7ea8-b76f-4f4b-8f3c-752f5cc86b43)
+![3](https://github.com/rezaaminiweb/sign_in_sign_up_dashboard/assets/140278906/9c0f8289-9e29-475f-9f6c-b8848b8a21a7)
+![4](https://github.com/rezaaminiweb/sign_in_sign_up_dashboard/assets/140278906/5b6eb283-9d77-4233-a0d0-aaad1086aac8)
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
