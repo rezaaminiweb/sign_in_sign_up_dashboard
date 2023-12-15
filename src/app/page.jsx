@@ -58,7 +58,7 @@ const Page = () => {
                                         <label htmlFor="user" className="">
                                             <BsPersonFill className="text-2xl  me-3"> </BsPersonFill>
                                         </label>
-                                        <input type="text" id="user" className="h-[100%]  w-full p-3 outline-none  placeholder:capitalize  " placeholder="your name without space" {...register("name")}
+                                        <input type="text" id="user" className="h-[100%]  w-full p-3 outline-none  placeholder:capitalize  " placeholder="your name without space(English)" {...register("name")}
                                         />
                                         <br />
 
